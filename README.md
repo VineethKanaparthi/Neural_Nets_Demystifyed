@@ -2,8 +2,8 @@
 
 Demystifying Neural Nets by building it with python(NumPy and SciPy)
 
-##Contents
-
+## Contents
+ 
 *HyperParameters
 *Parameters
 *Activation Function
